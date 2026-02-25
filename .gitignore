@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnement Virtuel
+wenv/
+
+# Database
+dbase.sqlite3
+
+# Environment variables
+.env
+
+
+#editor folder
+.vscode/
+.idea/
+*.log
+
+#system files
+.DS_Store
+Thumbs.dbase
+
+#node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.eslintcache
